@@ -1,0 +1,6 @@
+C:\Users\candelaria.d\source\repos\EjerciciosDePractica\Enumeraciones\bin\Debug\Enumeraciones.exe.config
+C:\Users\candelaria.d\source\repos\EjerciciosDePractica\Enumeraciones\bin\Debug\Enumeraciones.exe
+C:\Users\candelaria.d\source\repos\EjerciciosDePractica\Enumeraciones\bin\Debug\Enumeraciones.pdb
+C:\Users\candelaria.d\source\repos\EjerciciosDePractica\Enumeraciones\obj\Debug\Enumeraciones.exe
+C:\Users\candelaria.d\source\repos\EjerciciosDePractica\Enumeraciones\obj\Debug\Enumeraciones.pdb
+C:\Users\candelaria.d\source\repos\EjerciciosDePractica\Enumeraciones\obj\Debug\Enumeraciones.csprojAssemblyReference.cache
